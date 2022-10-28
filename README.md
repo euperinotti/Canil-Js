@@ -1,11 +1,11 @@
 # Canil-Js
 Projeto feito no módulo Node + Typescript do curso b7web
 
-## Dependencias globais
+## Dependências globais
 `npm install -g nodemon typescript ts-noode`
 
-## Instalacao
+## Instalação
 `npm install`
 
-## Execucao
+## Execução
 `npm run dev`
